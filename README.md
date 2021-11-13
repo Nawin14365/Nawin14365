@@ -11,7 +11,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor;I+Like+To+Tinker">
 </p>
 
-<p align="center"><img src="https://img.shields.io/github/followers/Zameel-Byte.svg?style=social&label=Follow&maxAge=2592000"></p>
+<p align="center"><img src="https://img.shields.io/github/followers/Nawin14365.svg?style=social&label=Follow&maxAge=2592000"></p>
 
 ----
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
