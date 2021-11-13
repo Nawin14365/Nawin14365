@@ -1,5 +1,5 @@
 
-![Visitor Count](https://profile-counter.glitch.me/Zameel-Byte/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Nawin14365/count.svg)
 <div style="text-align: right">
 <img src="https://jojoee.jojoee.com/api/utcnow?refresh" width="120" height="20">
 </div>
@@ -44,11 +44,11 @@
 
 ## Github stats
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Zameel-Byte&show_icons=true)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Nawin14365&show_icons=true)
 
 ## Languages used
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/Zameel-Byte)
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/Nawin14365)
 
 ## Contributors Badge
 
